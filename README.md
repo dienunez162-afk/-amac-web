@@ -1,9 +1,27 @@
 # AMAC - Plataforma de empleo (Entrega 2)
 
 ## Integrantes y qué hizo cada uno
-- Diego Núñez Guzmán: (escribir qué hizo)
-- Ricardo Villarreal Villatoro: (escribir qué hizo)
-- Emiliano Martinez Ramirez: (escribir qué hizo)
+- Diego Núñez Guzmán:
+- Crea el repo y las carpetas, y agrega a los compañeros como colaboradores.
+Hace variables.css, base.css y layout.css.
+Hace el header, la navegación y el footer, que deben ser idénticos en todas las páginas.
+Hace index.html (listado, buscador, filtros y 6 tarjetas) y vacante.html (detalle, Postularme y Llamar).
+Hace el componente de tarjeta de vacante y la ventana de confirmación.
+
+
+- Ricardo Villarreal Villatoro:
+- Hace login.html y registro-candidato.html.
+Hace los estilos de formularios en componentes.css: campos, labels, radios, checkboxes y paneles desplegables.
+Se encarga de la accesibilidad de los formularios (labels, fieldset y legend, tipos de input correctos).
+Si hay tiempo, hace los extras: registro de empresa y la página 404.
+
+  
+- Emiliano Martinez Ramirez:
+- Hace mis-solicitudes.html (3 registros con distintos estatus y botón Cancelar) y empresa-vacantes.html (vacantes y prospectos).
+Hace los componentes de etiquetas de estatus, tarjeta de solicitud y prospecto.
+Valida todas las páginas en el validador W3C y corrige errores.
+Corre Lighthouse y toma las capturas de index.html en celular y escritorio.
+Hace el despliegue en Vercel y completa el README.
 
 ## Paleta de colores (variables CSS)
 - --color-marino: #202945 (header, botones secundarios y texto)
