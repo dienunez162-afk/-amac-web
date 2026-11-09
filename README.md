@@ -35,7 +35,8 @@
 - Ventana de confirmación
 
 ## Capturas de index.html
-- Celular: (agregar captura)
+ <img width="430" height="380" alt="image" src="https://github.com/user-attachments/assets/fbe9c8c8-259e-4606-a300-a91b617091dc" />
+
 - Escritorio: (agregar captura)
 
 ## Lighthouse - Accessibility
